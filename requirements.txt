@@ -1,0 +1,8 @@
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+flask==3.0.3
+celery==5.4.0
+redis==5.0.4
+python-dotenv==1.0.1
+pytest==8.2.0
+requests==2.31.0
